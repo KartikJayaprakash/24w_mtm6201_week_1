@@ -1,6 +1,15 @@
+.wrapper {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:darkgreen;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    }
+
 /* Set image width to be responsive and not over 150px wide */
 img {
-    max-width: 100%;
+    max-width:100%;
     width: auto;
     max-height: 150px;
   }
